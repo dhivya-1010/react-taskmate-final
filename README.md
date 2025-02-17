@@ -1,16 +1,4 @@
 
-# Set React App
-
-**Author:** [Shubham Sarda](https://www.linkedin.com/in/shubhamsarda/) / [@shubham_ul](https://x.com/shubham_ul)  
-
----
-
-## Overview
-
-Set React App is a lightweight, opinionated setup for building modern React applications. Inspired by Create React App, it leverages [Vite](https://vitejs.dev/) for blazing-fast bundling, hot module replacement, and a streamlined developer experience. This template provides common tooling and sensible defaults to get you up and running quickly.
-
----
-
 ## Features
 
 - **Vite-Powered**: Enjoy fast bundling, instant dev server start, and on-demand file serving.  
